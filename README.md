@@ -1,5 +1,5 @@
 # Camera-SCG-Multi-Fiducial-Marker-Detection-
-This repository contains the dataset associated with the paper "**Advancing Remote Cardiac Monitoring in IoMT: Multi-Fiducial Marker Detection from Camera based Seismocardiogram.**"
+This repository contains the dataset associated with the paper "**Detecting Multiple Fiducial Markers from Camera Seismocardiogram**".
 
 ## Overview
 This study proposes a novel method for multi-fiducial marker detection from camera-SCG signals recorded by a remote camera. Based on the principle of defocus speckle imaging, this method utilizes an end-to-end model to detect seven physiologically significant fiducial markers in the camera-SCG signal.
